@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Repositories\Fases;
+namespace App\Repositories\Congeladores;
 
 use App\Models\Congelador;
 use App\Repositories\BaseRepository;
