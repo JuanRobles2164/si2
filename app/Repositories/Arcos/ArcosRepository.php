@@ -7,7 +7,7 @@ use App\Repositories\BaseRepository;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
 
-class FasesRepository extends BaseRepository{
+class ArcosRepository extends BaseRepository{
     private static $instance;
     private function __construct(){
 
